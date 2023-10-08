@@ -1,0 +1,41 @@
+
+
+#mainTitle {
+  text-align: center;
+}
+
+#mainDiv {
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 10px;
+  background-color: lightgray;
+  text-align: center;
+  border-color: lightgray;
+  border-style: solid;
+  border-width: 10px;
+}
+
+#titleDiv {
+  background-color: whitesmoke;
+}
+
+
+#mapDiv {
+  text-align: center;
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#bubbleDiv {
+  text-align: center;
+  background-color: whitesmoke;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#borderDiv {
+  background-color: lightgray;
+  padding: 10px;
+}
