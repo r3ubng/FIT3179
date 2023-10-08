@@ -151,30 +151,7 @@
                         "value": 1
                     },
                     "value": 0
-                },
-                "tooltip": [
-                    {
-                        "field": "Country",
-                        "type": "nominal"
-                    },
-                    {
-                        "field": "No_of_TV_Shows",
-                        "type": "quantitative",
-                        "format": ",",
-                        "title": "No. of TV Shows"
-                    },
-                    {
-                        "field": "No_of_Movies",
-                        "type": "quantitative",
-                        "format": ",",
-                        "title": "No. of Movies"
-                    },
-                    {
-                        "field": "Total Library Size",
-                        "type": "quantitative",
-                        "format": ","
-                    }
-                ]
+                }
             }
         }
     ]
